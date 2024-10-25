@@ -5,6 +5,7 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 - [Atiwat Yuwitaya (10/10/2024)](https://www.facebook.com/DogJeWz/posts/pfbid0PfaEGtBVbEeyJQk3iVcJQkxS4DKStMc1ySU9e1R3nfTxyZiqLj8oAkprvWC3WDCEl)
 - [Ramet Sungsawan (10/10/2024)](https://www.facebook.com/DelPieroGB/posts/pfbid0PcJCnoYFjtQi84vFQbQDuA1hv9cdEM5c1sNHQ5p36FjFqqpYUMm4Rfx8UY3A2gEtl)
 - [Rachata Punyathananan (04/09/2024)](https://www.facebook.com/JACKmd13/posts/pfbid02q9J4yCEumXcmYNpu15qCqTPrWup5G2fzRHVJki3kczQbijvb5XWq3gDPNuJo7XWUl)
+- ["WhatIs(Programmers)?" โดย Rachata.Ptnn (Medium, 05/09/2024)](https://medium.com/@rachata.ptnn/whatis-programmers-3824d95222da) บทความต่อเนื่องจากเจ้าของรีวิวด้านบน มีรีวิวข้างในบทความนี้เพิ่มด้วย
 - [เพจ: เมื่อฉันมีสามีเป็นโปรแกรมเมอร์ (30/08/2024)](https://www.facebook.com/when.my.husband.is.a.programmer/posts/pfbid023MdfJvMJbzbMAkXXvRYeaH9di7Xo1iUxYi87uFQQREEGa8tEgjVqQWkBzGBSjK6Ll)
 - [Sarun Maksuanpan (29/08/2024)](https://www.facebook.com/sarun.maksuanpan/posts/pfbid09uggwRjAmHsKzC7bUVyy2HeeoDn8Qrs8pUxgEma85a2T5SK7Q6zCG3csMV1ZT9Drl)
 - [Mio Flora (06/06/2024)](https://www.facebook.com/mio.flora.92/posts/pfbid032ZetF94vVSGURznBv9b8A9fsw6mTGLsT3MDHpBX4qZuRphGPzrBWwUvJHThxbLgpl)
