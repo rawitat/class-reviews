@@ -11,13 +11,13 @@
 - [Algorithm Design for Working Programmers](reviews/algo4wp.md)
 - [Everyday Life Mathematics](reviews/edlmath.md)
 - [Essence of Digital Transformation](review/digitran.md)
-- [Photography in Maths](review/photography.md) (discontinued เปลี่ยนเป็นคลาส online แทนแล้ว)
+- [Photography in Maths](reviews/photography.md#photography-in-maths-discontinued) (discontinued เปลี่ยนเป็นคลาส online แทนแล้ว)
 
 ## Online Classes
 - [Programming from Zero to One](reviews/prog0to1.md)
 - [Haskell Crash Course](reviews/haskellcc.md) คลาส spin-off ของ Mathematics for Working Programmers
 - [Understanding Maths & Coding for Parents](reviews/umc4p.md)
-- [Photography: The Problem Solving Approach](reviews/photography.md)
+- [Photography: The Problem Solving Approach](reviews/photography.md#photography-the-problem-solving-approach)
 
 ---
 
