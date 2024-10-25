@@ -6,7 +6,7 @@
 
 # Syllabus & Outline
 
-- [Mathematics for Working Programmers: Day 0-6](syllabus/maths4wp-syllabus-outline.pdf) เป็น PDF ไฟล์เดียว แต่แยกตามคลาส (Day 0, Day 1-2, Day 3-4, Day 5-6) โดยมีรายละเอียด ที่มาและความสำคัญ/หลักการและเหตุผล เนื้อหาคร่าวๆ ของแต่ละคลาสไว้
+- [Mathematics for Working Programmers: Day 0-6](https://drive.google.com/file/d/1dD3Wy1MMLSbXeZIjo1qYJAZPHbSVCkdp/view?usp=share_link) เป็น PDF ไฟล์เดียว แต่แยกตามคลาส (Day 0, Day 1-2, Day 3-4, Day 5-6) โดยมีรายละเอียด ที่มาและความสำคัญ/หลักการและเหตุผล เนื้อหาคร่าวๆ ของแต่ละคลาสไว้
 
 # Reviews:
 
