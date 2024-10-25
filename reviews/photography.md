@@ -1,4 +1,6 @@
 # Photography: The Problem Solving Approach
+คลาส online ซึ่งเป็นเวอร์ชันปัจจุบันของคลาสนี้
+
 - [ภาวิน อิทธิรส (24/10/2024)](https://www.facebook.com/pawin.ittirote/posts/pfbid02o5pSkEvNJ1gafu3D8GPJmktMiv9PDnhNPUrYffkFqGGgF4fw24G1qXS2M1qAMBmrl) Testimony จากคนที่เรียนออนไลน์รอบแรก (พร้อมภาพที่เป็นผลงาน)
 
 # Photography, in Maths (discontinued)
