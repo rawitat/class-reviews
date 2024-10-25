@@ -59,6 +59,12 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 - [Saritrat Jirakulphondchai (09/01/2023)](https://www.facebook.com/Sikiryl/posts/pfbid02ZL3DMkaiZ57Kgdj9xezQ1YNt6aSR8Cmbv7Rg7yrPVHGav3cC7Q4Zqeixiwv92G8xl) จากคลาส Day 3-4 รอบแรก
 - [Chonlasith Jucksriporn (09/01/2023)](https://www.facebook.com/Sikiryl/posts/pfbid02ZL3DMkaiZ57Kgdj9xezQ1YNt6aSR8Cmbv7Rg7yrPVHGav3cC7Q4Zqeixiwv92G8xl) จากคลาส Day 3-4 รอบแรก
 
+## 2022
+
+- [Natkrita Chumlek (12/12/2022)](https://www.facebook.com/sariakra/posts/pfbid0oqHWa8CqDS7EkENmVRDviXJFZVdreWmbHD9B9WmTYFj3ee98swBKN5ensTAbGSn9l) คนที่เคยมาเรียนเวอร์ชันเก่า (2.0) มาเรียนใหม่อีกครั้ง (3.0 "Beta" ซึ่งใกล้เคียงปัจจุบันมาก)
+- [Kasama Chenkaow (12/12/2022)](https://www.facebook.com/kc.finished/posts/pfbid0D879PP4TVThSeVDYqKmuUUrorgPPCCiLwmJTcbQmFotC4hbqmfp5hLpgwp4ALAeDl) จากคลาสรอบที่ตั้งใจจัดให้คนนี้เรียนเลย เพราะอยู่ต่างประเทศ ไม่ค่อยได้กลับไทย แล้วอยากเรียนมาก ผมเลยพยายามจัดคลาสให้ตรงวัน
+- [Ken Osatapirat (11/12/2022)](https://www.facebook.com/osataken/posts/pfbid02GZQx6nutVd7SnX6LdpgAPQX7MH1sZDor22hahgduVCUAgwCLcmc8p5WSXjVEpBndl)
+
 ## Additional
 
 รีวิวคลาส "Category Theory for Software Engineers" ที่เนื้อหาประมาณ 60% กลายมาเป็น Day 5-6 (ตอนนี้คลาส Category Theory ไม่มีเปิดแยกแล้ว)
@@ -66,11 +72,6 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 - [Natechawin Suthison (24/05/2020)](https://www.facebook.com/natechawin.suthison/posts/pfbid023dgm9Uf5EiGwpzLE5dohVD2Wqnnw1XWPo5jaNcMEZQewWU1jPhdGho8KFBp3rDTXl) 
 - [Chakrit Riddhagni (11/05/2020)](https://www.facebook.com/chakrit.likitkhajorn/posts/pfbid033ZKLN9Zvfm5UZBrMZjQ8WsB9ttfCEGpPFWPSXrYEoPgNDkEChTZ6Su8pv5QXJ3MPl) 
 
-## 2022
-
-- [Natkrita Chumlek (12/12/2022)](https://www.facebook.com/sariakra/posts/pfbid0oqHWa8CqDS7EkENmVRDviXJFZVdreWmbHD9B9WmTYFj3ee98swBKN5ensTAbGSn9l) คนที่เคยมาเรียนเวอร์ชันเก่า (2.0) มาเรียนใหม่อีกครั้ง (3.0 "Beta" ซึ่งใกล้เคียงปัจจุบันมาก)
-- [Kasama Chenkaow (12/12/2022)](https://www.facebook.com/kc.finished/posts/pfbid0D879PP4TVThSeVDYqKmuUUrorgPPCCiLwmJTcbQmFotC4hbqmfp5hLpgwp4ALAeDl) จากคลาสรอบที่ตั้งใจจัดให้คนนี้เรียนเลย เพราะอยู่ต่างประเทศ ไม่ค่อยได้กลับไทย แล้วอยากเรียนมาก ผมเลยพยายามจัดคลาสให้ตรงวัน
-- [Ken Osatapirat (11/12/2022)](https://www.facebook.com/osataken/posts/pfbid02GZQx6nutVd7SnX6LdpgAPQX7MH1sZDor22hahgduVCUAgwCLcmc8p5WSXjVEpBndl)
 
 # Version 2.x (ใกล้เคียงปัจจุบัน)
 
