@@ -27,7 +27,6 @@
 
 - Mathematics for Working Programmers: Day 0-6 Bundle ช่วงกลางเดือน พ.ย. - กลางเดือน ธ.ค. 2024
 - Algorithm Design for Working Programmers: Day 3-4 วันที่ 2-3 พ.ย. 2024 (เต็มแล้ว)
-- Omakase: Collection of Software Development & Digital Transformation Lectures วันที่ 26-27 ต.ค. 2024 (เต็มแล้ว)
 
 ## ติดต่อ/ติดตามการเปิดคลาส
 
