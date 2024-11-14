@@ -5,6 +5,7 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 
 รีวิวทั้งหมด มาจากคลาส Day 1-2 เนื่องจาก Day 3-4 ยังไม่เคยเปิดอย่างเป็นทางการ
 
+- [Attasil Chitwirote (04/11/2024)](https://www.facebook.com/Attasil/posts/pfbid02CtaHm9CrmfEgKbN11Ym1gC2NXm8K7CbiyYAWMHV6XkWd1z7QWEiUpZGGNhM1HsmTl)
 - [Thanasarn Porthaveepong (29/10/2022)](https://www.facebook.com/lawofearth/posts/pfbid02cAQBv16db7fAonSBGoCtrfwUZjpf4S3ur2vmhBvGkzBq8Wp1etheQGKSn4Z1tbwzl) 
 - [Wanida Lee (24/10/2022)](https://www.facebook.com/wanida.lee.1/posts/pfbid032P4U7UrnSWP16QBSBvu9fF4zr3sDALHb4EhHjVdFq1t3xZGykCBkYcWAqhWqtFz3l)
 - [Tham Theerawuttichaikit (24/10/2022)](https://www.facebook.com/thamt20/posts/pfbid012YJpD19ogna5qJ8SfcA8my6q6yPTeCg7zmBjxeb2h41S2S1q3K1SfBYhQV4vb9Rl)
