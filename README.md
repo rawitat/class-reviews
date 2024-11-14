@@ -12,6 +12,7 @@
 - [Algorithm Design for Working Programmers](reviews/algo4wp.md)
 - [Everyday Life Mathematics](reviews/edlmath.md)
 - [Essence of Digital Transformation](review/digitran.md)
+- [Omakase: Collection of Software Development & Digital Transformation Talks & Lectures](review/omakase.md)
 
 ## Online Classes
 - [Programming from Zero to One](reviews/prog0to1.md)
