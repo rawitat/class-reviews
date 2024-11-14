@@ -4,6 +4,7 @@
 
 ปัจจุบัน กำลังจะปรับเป็นคลาสแบบ 4 ชั่วโมง (คาดว่าจะชื่อ Essence of Digital Transformation) และ 2 วัน (คาดว่าจะชื่อ Digital Transformation: from Zero to One)
 
+- [Sanguansak Petchmeesri (14/11/2024)](https://www.facebook.com/share/p/fJ2jw6ycivWomQ2p/)
 - [Natthakritta Pakklong (15/10/2024)](https://www.facebook.com/alice.q.worrall/posts/pfbid0UDeKLAmeENo3Wh41PKpDLQoSYe9V1uJgTJgXucTXLDkjMNHy6iHMJgrdGnnLXNCQl)
 - [Rachata Punyathananan (14/10/2024)](https://www.facebook.com/JACKmd13/posts/pfbid036zWv33qwrbGhCkrewb3ifGhfKFhJtrYsgxLKyQcGnf1k1cYLn7821KdfMD79h3ehl)
 - ["บันทึกคลาส The Essence of Digital Transformation" โดย Rachata.Ptnn (Medium, 15/10/2024)](https://medium.com/@rachata.ptnn/บันทึกการเรียนคลาส-the-essence-of-digital-transformation-6ce37dd2ed86) เป็นบทความเพิ่มเติมจากรีวิวด้านบน
