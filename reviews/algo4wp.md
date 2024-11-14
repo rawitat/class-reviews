@@ -3,8 +3,7 @@
 
 Note: เนื่องจากเนื้อหาของคลาสมีการปรับปรุงตลอดเวลา ดังนั้นรีวิวที่มีความเป็นปัจจุบันที่สุด จะมีความใกล้เคียงกับคลาสที่ท่านจะได้เรียนที่สุด โดยที่ส่วนมากจะเป็นรีวิวที่ท่านเหล่านี้โพสท์ไว้ใน Facebook (บางรีวิวจะตั้งค่าเป็น Friends Only เอาไว้ ทำให้หากไม่ใช่เพื่อนกันก็จะอ่านไม่ได้) แต่บางรีวิวก็จะโพสท์ไว้ที่อื่น ซึ่งกรณีนี้ผมจะวงเล็บกำกับไว้
 
-รีวิวทั้งหมด มาจากคลาส Day 1-2 เนื่องจาก Day 3-4 ยังไม่เคยเปิดอย่างเป็นทางการ
-
+- [Kanin Kearpimy (05/11/2024)](https://www.facebook.com/kanin.kearpimy56/posts/pfbid029iSuDv13DdByCveZE4Z4Tzgsg6YE4nJs7iABHy8JAu1XzCXkAc5EEqwz5qLFuRzkl) รีวิวแรกจากคลาส Day 3-4 ที่เปิดรอบแรก
 - [Attasil Chitwirote (04/11/2024)](https://www.facebook.com/Attasil/posts/pfbid02CtaHm9CrmfEgKbN11Ym1gC2NXm8K7CbiyYAWMHV6XkWd1z7QWEiUpZGGNhM1HsmTl)
 - [Thanasarn Porthaveepong (29/10/2022)](https://www.facebook.com/lawofearth/posts/pfbid02cAQBv16db7fAonSBGoCtrfwUZjpf4S3ur2vmhBvGkzBq8Wp1etheQGKSn4Z1tbwzl) 
 - [Wanida Lee (24/10/2022)](https://www.facebook.com/wanida.lee.1/posts/pfbid032P4U7UrnSWP16QBSBvu9fF4zr3sDALHb4EhHjVdFq1t3xZGykCBkYcWAqhWqtFz3l)
