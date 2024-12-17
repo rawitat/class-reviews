@@ -16,6 +16,7 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 
 ## 2024
 
+- [Sarun Maksuanpan (17/12/2024)](https://www.facebook.com/sarun.maksuanpan/posts/pfbid0b9Zq5DLDZPPwhcXZgnMKJrnpL3pZoJKAhdQ3GFxJcGxZzPcWu2bzELm646jjKssZl) Impression จากการเรียน Day 0-6 แบบ Bundled
 - [Phoomparin Mano (01/07/2024)](https://www.facebook.com/phoomparin.mano/posts/pfbid0eaBywQRDVfJifoKrNYTs1RstBoeQWTVXJ1iPkbTAKKG6hMJLmK3PfPbSCv7BG8JWl) รวมทั้งหมด 3 คลาส ตั้งแต่ Day 0, Day 1-2 และ Day 3-4 
 - ["Problem-Solving, Sub-Problem และ Algorithm" โดย Rachata.Ptnn (Medium, 27/06/2024)](https://medium.com/@rachata.ptnn/problem-solving-sub-problem-และ-algorithm-จากมุมมอง-software-developer-6e5f3a484505) เนื้อหาจากส่วนหนึ่งของคลาส Day 0
 - [Dollapark Suwanpunya (24/06/2024)](https://www.facebook.com/phoneee/posts/pfbid0Ya8vwW5UnLKtNwhHdRiXmtrV3zpx9KuwBxKfn2zKdQPJHHSC2tNAcnYqWMPQVn6ol) คลาส Day 3-4 และ Day 5-6
