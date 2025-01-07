@@ -1,8 +1,10 @@
-# Essence of Digital Transformation
+# The Nature & Essence of Digital Transformation
 
-รีวิวเหล่านี้ มาจากการเปิดคลาส "รุ่นทดลองเรียน/ทดลองสถานที่สอน" โดยเป็นคลาส 2 ชั่วโมง 
+รีวิวจากคลาสรอบแรก ที่เปิดแบบ 2 วัน
 
-ปัจจุบัน กำลังจะปรับเป็นคลาสแบบ 4 ชั่วโมง (คาดว่าจะชื่อ Essence of Digital Transformation) และ 2 วัน (คาดว่าจะชื่อ Digital Transformation: from Zero to One)
+- [Chinawat Isradisaikul (05/01/2025)](https://www.facebook.com/chinissai/posts/pfbid0qKAdXhkf2qHWrDsKRPFcBobFvCip9tbkuj28TqnRj39JK2WcodoCcfx4L1BbQ68fl)
+
+รีวิวจากคลาส "รุ่นทดลองเรียน/ทดลองสถานที่สอน" โดยเป็นคลาส 2 ชั่วโมง (ชื่อ The Essence of Digital Transformation)
 
 - [Sanguansak Petchmeesri (14/11/2024)](https://www.facebook.com/share/p/fJ2jw6ycivWomQ2p/)
 - [Natthakritta Pakklong (15/10/2024)](https://www.facebook.com/alice.q.worrall/posts/pfbid0UDeKLAmeENo3Wh41PKpDLQoSYe9V1uJgTJgXucTXLDkjMNHy6iHMJgrdGnnLXNCQl)
