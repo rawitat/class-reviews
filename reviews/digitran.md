@@ -2,6 +2,7 @@
 
 รีวิวจากคลาสรอบแรก ที่เปิดแบบ 2 วัน
 
+- [Sut Pinroj (12/01/2025)](https://www.facebook.com/permalink.php?story_fbid=pfbid0ECqYNAoZh4CAKzrT3zZBQd8uzfANtbNrGziudfpx7dDhmtNZmJNbzeJkkDR3Y8qTl&id=100079578866377)
 - [Chinawat Isradisaikul (05/01/2025)](https://www.facebook.com/chinissai/posts/pfbid0qKAdXhkf2qHWrDsKRPFcBobFvCip9tbkuj28TqnRj39JK2WcodoCcfx4L1BbQ68fl)
 
 รีวิวจากคลาส "รุ่นทดลองเรียน/ทดลองสถานที่สอน" โดยเป็นคลาส 2 ชั่วโมง (ชื่อ The Essence of Digital Transformation)
