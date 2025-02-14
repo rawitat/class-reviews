@@ -10,10 +10,10 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 
 รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
 
-- [นราวิชญ์ ด่านศิริวิโรจน์ (29/02/2024)](https://www.facebook.com/vitza001/posts/pfbid02hMiD5AQpxnVvS93NJqkuiAY9xbRsJa9p6wE1BWLLw4biEAG99aN85mQyDm4wZ1bgl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
-- [Sutiwat Khing (28/02/2024)](https://www.facebook.com/KKhing78/posts/pfbid09T386jw4QLXRyqcUaDLvPmvU65QrzPADgW2UgepSs3ejaDy4RqJ2VbKVrBbbRWGjl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
-- [Hoa Hua (26/04/2024)](https://www.facebook.com/huajiti/posts/pfbid02P1TWmhEtKVptW3RpquGnGY65y785dEPvzFJhqth6kjG1GGZLddcyRTc9PpZGZnzRl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
-- [Napat Pianchana (12/02/2024)](https://www.facebook.com/boboshishifirst/posts/pfbid028HmCpg7j6W1s9C5fAmB6z1oPzHkyV3yAkPBwC8FjDEDKaABBW4qARA1YTcDYzvxkl) Impression สั้นๆ จากคลาส Reasoning with Discrete Maths รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
+- [นราวิชญ์ ด่านศิริวิโรจน์ (29/02/2024)](https://www.facebook.com/vitza001/posts/pfbid02hMiD5AQpxnVvS93NJqkuiAY9xbRsJa9p6wE1BWLLw4biEAG99aN85mQyDm4wZ1bgl)
+- [Sutiwat Khing (28/02/2024)](https://www.facebook.com/KKhing78/posts/pfbid09T386jw4QLXRyqcUaDLvPmvU65QrzPADgW2UgepSs3ejaDy4RqJ2VbKVrBbbRWGjl)
+- [Hoa Hua (26/04/2024)](https://www.facebook.com/huajiti/posts/pfbid02P1TWmhEtKVptW3RpquGnGY65y785dEPvzFJhqth6kjG1GGZLddcyRTc9PpZGZnzRl)
+- [Napat Pianchana (12/02/2024)](https://www.facebook.com/boboshishifirst/posts/pfbid028HmCpg7j6W1s9C5fAmB6z1oPzHkyV3yAkPBwC8FjDEDKaABBW4qARA1YTcDYzvxkl)
 
 ##
 
