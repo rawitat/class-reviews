@@ -6,6 +6,10 @@
 
 Note: เนื่องจากเนื้อหาของคลาสมีการปรับปรุงตลอดเวลา ดังนั้นรีวิวที่มีความเป็นปัจจุบันที่สุด จะมีความใกล้เคียงกับคลาสที่ท่านจะได้เรียนที่สุด โดยที่ส่วนมากจะเป็นรีวิวที่ท่านเหล่านี้โพสท์ไว้ใน Facebook (บางรีวิวจะตั้งค่าเป็น Friends Only เอาไว้ ทำให้หากไม่ใช่เพื่อนกันก็จะอ่านไม่ได้) แต่บางรีวิวก็จะโพสท์ไว้ที่อื่น ซึ่งกรณีนี้ผมจะวงเล็บกำกับไว้
 
+- [นราวิชญ์ ด่านศิริวิโรจน์ (29/02/2024)](https://www.facebook.com/vitza001/posts/pfbid02hMiD5AQpxnVvS93NJqkuiAY9xbRsJa9p6wE1BWLLw4biEAG99aN85mQyDm4wZ1bgl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
+- [Sutiwat Khing (28/02/2024)](https://www.facebook.com/KKhing78/posts/pfbid09T386jw4QLXRyqcUaDLvPmvU65QrzPADgW2UgepSs3ejaDy4RqJ2VbKVrBbbRWGjl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
+- [Hoa Hua (26/04/2024)](https://www.facebook.com/huajiti/posts/pfbid02P1TWmhEtKVptW3RpquGnGY65y785dEPvzFJhqth6kjG1GGZLddcyRTc9PpZGZnzRl) รีวิวและ Impression จากคลาส Reasoning with Discrete Maths & Logical and Computational Structures รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
+- [Napat Pianchana (12/02/2024)](https://www.facebook.com/boboshishifirst/posts/pfbid028HmCpg7j6W1s9C5fAmB6z1oPzHkyV3yAkPBwC8FjDEDKaABBW4qARA1YTcDYzvxkl) Impression สั้นๆ จากคลาส Reasoning with Discrete Maths รอบพิเศษที่จัดให้ ODDS แบบ 4 วัน
 - [Attasil Chitwirote (23/07/2023)](https://www.facebook.com/Attasil/posts/pfbid0ZQQe95fs7yXZUK8pvZkFBKQXwuKPFH9e6KNsn1GzTpropp2dDKjN3BbU9T95TJBzl)
 - [Jerapong Nampetch (18/07/2023)](https://www.facebook.com/jerapong/posts/pfbid02RHPEdkbjdRU3JfkcP6WATQfEsnBAcJaEkeMiQwr8vdXMNNDgeLGkzpJ3PXggd2XHl)
 - [Thanakorn Saesim (17/07/2023)](https://www.facebook.com/thanakorn.saesim/posts/pfbid02W4zjiw8qYfoHnZ88ffUL7NMND9EsVCahHeRAUaqixUBc2BU3ECXu9aVynYwr5AFjl)
