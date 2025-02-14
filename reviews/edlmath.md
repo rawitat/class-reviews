@@ -1,4 +1,5 @@
-# Everyday Life Mathematics
+# Everyday Life Reasoning
+## with Discrete & Computational Mathematics
 (ชื่อเดิม: Reasoning with Discrete Maths)
 
 เปิดคลาสครั้งล่าสุดเมื่อ 07/2023

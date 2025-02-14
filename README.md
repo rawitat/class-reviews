@@ -10,7 +10,7 @@
 ## Offline Classes
 - [Mathematics for Working Programmers](reviews/maths4wp.md)
 - [Algorithm Design for Working Programmers](reviews/algo4wp.md)
-- [Everyday Life Mathematics](reviews/edlmath.md)
+- [Everyday Life Reasoning: with Discrete & Computational Mathematics](reviews/edlmath.md)
 - [The Nature & Essence of Digital Transformation](reviews/digitran.md)
 - [Omakase: Collection of Software Development & Digital Transformation Talks & Lectures](reviews/omakase.md)
 
