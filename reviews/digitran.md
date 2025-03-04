@@ -1,7 +1,8 @@
 # The Nature & Essence of Digital Transformation
 
-รีวิวจากคลาสรอบแรก ที่เปิดแบบ 2 วัน
+รีวิวจากคลาส ที่เปิดแบบ 2 วัน
 
+- [Tarrin Attachariya (02/03/2025)](https://www.facebook.com/tarrin.hao/posts/pfbid02qNN6Mm5QehvKSpL6coCRT3T8SmyFGK7B4CVR5htbZRgtxix7myCmuZbom5a5TAhbl)
 - [Sut Pinroj (12/01/2025)](https://www.facebook.com/permalink.php?story_fbid=pfbid0ECqYNAoZh4CAKzrT3zZBQd8uzfANtbNrGziudfpx7dDhmtNZmJNbzeJkkDR3Y8qTl&id=100079578866377)
 - [Chinawat Isradisaikul (05/01/2025)](https://www.facebook.com/chinissai/posts/pfbid0qKAdXhkf2qHWrDsKRPFcBobFvCip9tbkuj28TqnRj39JK2WcodoCcfx4L1BbQ68fl)
 
