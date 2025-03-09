@@ -2,6 +2,7 @@
 
 รีวิวจากคลาส ที่เปิดแบบ 2 วัน
 
+- ["รีวิวคอร์ส The Nature & Essence of Digital Transformation อาจารย์เดฟ" โดย Shindanai Mongkolsin (09/03/2025)](https://medium.com/@sshindanai.m/รีวิวคอร์ส-the-nature-essence-of-digital-transformation-อาจารย์เดฟ-f3f196379d6c)
 - ["รีวิวเล็กๆ The Nature & Essence of Digital Transformation by อ. Dave Rawitat Pulam" โดย Tirasak Wong-ahingsa / Dark_Spirit (Warm) (07/03/2025)](https://tirasakwongahingsa.medium.com/รีวิวเล็กๆ-the-nature-essence-of-digital-transformation-by-อ-dave-rawitat-pulam-3069b9feb0cb)
 - [Tarrin Attachariya (02/03/2025)](https://www.facebook.com/tarrin.hao/posts/pfbid02qNN6Mm5QehvKSpL6coCRT3T8SmyFGK7B4CVR5htbZRgtxix7myCmuZbom5a5TAhbl)
 - [Sut Pinroj (12/01/2025)](https://www.facebook.com/permalink.php?story_fbid=pfbid0ECqYNAoZh4CAKzrT3zZBQd8uzfANtbNrGziudfpx7dDhmtNZmJNbzeJkkDR3Y8qTl&id=100079578866377)
