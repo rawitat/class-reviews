@@ -26,7 +26,6 @@
 
 ## กำหนดการเปิดคลาสที่กำลังจะมาถึง
 
-- Everyday Life Reasoning: with Discrete & Computational Maths 22-23 มีนาคม
 - Mathematics for Working Programmers: Day 5-6 (รอบ stand lone สุดท้าย) 29-30 มีนาคม 
 
 ## ติดต่อ/ติดตามการเปิดคลาส
