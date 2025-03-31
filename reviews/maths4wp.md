@@ -12,6 +12,9 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 
 และช่วงกลางปี 2024 เริ่มมี [Haskell Crash Course](haskellcc.md) เป็น spin-off แบบออนไลน์อีกคลาส
 
+## 2025
+- [Chakrit Riddhagni (31/03/2025)](https://www.facebook.com/share/p/161xqu9ErE/)
+
 ## 2024
 
 - [Akarapol Padungdit (23/12/2024)](https://www.facebook.com/itschmpp/posts/pfbid023hSYoR1H5cJrur1MsyVwUAsMNGiu8TAw5zXRMT1SgpNH2yhdnAZnHWusYbSzHm5Ql)
