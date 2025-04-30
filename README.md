@@ -26,7 +26,7 @@
 
 ## กำหนดการเปิดคลาสที่กำลังจะมาถึง
 
-- Mathematics for Working Programmers: Day 5-6 (รอบ stand lone สุดท้าย) 29-30 มีนาคม 
+- Mathematics for Working Programmers: Day 7-8 (รอบทดลองเปิด) 10 - 11 พ.ค.
 
 ## ติดต่อ/ติดตามการเปิดคลาส
 
