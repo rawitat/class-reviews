@@ -18,7 +18,7 @@
 - [Programming from Zero to One](reviews/prog0to1.md)
 - [Haskell Crash Course](reviews/haskellcc.md) คลาส spin-off ของ Mathematics for Working Programmers
 - [Understanding Maths & Coding for Parents](reviews/umc4p.md)
-- [Photography: The Problem Solving Approach](reviews/photography.md#photography-the-problem-solving-approach)
+- [Photography: The Problem Solving Approach](reviews/others.md#photography-the-problem-solving-approach)
 
 ---
 
@@ -26,7 +26,8 @@
 
 ## กำหนดการเปิดคลาสที่กำลังจะมาถึง
 
-- Mathematics for Working Programmers: Day 7-8 (รอบทดลองเปิด) 10 - 11 พ.ค.
+- Storytellihg: The Problem Solving Approach 28 มิ.ย. 2025
+- Mathematics for Working Programmers: Day 0-8 สุดสัปดาห์สุดท้ายของเดือน ก.ค. - พ.ย.
 
 ## ติดต่อ/ติดตามการเปิดคลาส
 

@@ -13,7 +13,11 @@ Note: เนื่องจากเนื้อหาของคลาสม�
 และช่วงกลางปี 2024 เริ่มมี [Haskell Crash Course](haskellcc.md) เป็น spin-off แบบออนไลน์อีกคลาส
 
 ## 2025
-- [Chakrit Riddhagni (31/03/2025)](https://www.facebook.com/share/p/161xqu9ErE/)
+
+- [Dollapak Suwanpunya (08/06/2025)](https://www.facebook.com/phoneee/posts/pfbid02B6qFwAaY8kzS3YeJfdtCebdrhCAomvMrV3yYexe2qJMBG2K3UCRyzdPuxbekgAaGl) คลาส Day 7-8 รอบเอาจริงรอบแรก
+- [Thanasarn Porthaveepong (11/05/2025)](https://www.facebook.com/lawofearth/posts/pfbid02xyJPsbKKz5nVY7auBKGqBzv2njAnePwXEK1nzBYkEWb2fhsZHA5ULLUtMsuZ1dFwl) จาก Day 7-8 รอบหนูทดลอง (รอบแรก)
+- [Pavarit Chandhaprayoon (25/03/2025)](https://www.facebook.com/phonour/posts/pfbid02rQ3j4qu1CwT8egaHR3EujcjbaQJD8LBgLHq4ijJWzFa7RFkxA4Yu44VEKVs54Reol) อันที่จริงจะเรียกว่ารีวิวของคลาสนี้ก็คงไม่ถูกนัก เพราะท่านนีั้ลงหลายคลาส แต่เป็น overall impression
+- [Chakrit Riddhagni (31/03/2025)](https://www.facebook.com/share/p/161xqu9ErE/) รีวิว Day 5-6 จากคนที่ชอบคลาส Category Theory for Software Engineers มาก (Day 5-6 คือ Revised version ของคลาสนั้น)
 
 ## 2024
 
