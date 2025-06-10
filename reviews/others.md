@@ -8,6 +8,11 @@
 - [Boonthep Techarungruangkit (01/11/2024)](https://www.facebook.com/boonthept/posts/pfbid0T2JkZb9NYP9hwb2gpPKuJQniYbbzsnnh2PzyeYA3xd8xeX8RNDbWqVfNENwBW9Rwl)
 - [Rati Montreewat (28/10/2024)](https://www.facebook.com/ratixoxo/posts/pfbid02XGnyX2KeHJmUhpNRX9dR7fAHSFsz15rKGa59PDap8ptiL1grNLiofXRHAmhXaPhbl)
 
+# Storytelling: The Problem Solving Approach
+
+- [Attasil Chitwirote (21/04/2025)](https://www.facebook.com/share/p/18z1TFbnjJ/)
+- [Kasama Chenkaow (22/04/2025)](https://www.facebook.com/kasama.chenkaow/posts/pfbid02iV9UXEW2CWNUYsSpKLU8bHkAQdF9PwmhX4JkYQ2G2mBRZ1pisBn5bQ7JcU9LGYSpl)
+
 # Understanding Maths & Coding for Parents
 
 Note: เนื่องจากเนื้อหาของคลาสมีการปรับปรุงตลอดเวลา ดังนั้นรีวิวที่มีความเป็นปัจจุบันที่สุด จะมีความใกล้เคียงกับคลาสที่ท่านจะได้เรียนที่สุด โดยที่ส่วนมากจะเป็นรีวิวที่ท่านเหล่านี้โพสท์ไว้ใน Facebook (บางรีวิวจะตั้งค่าเป็น Friends Only เอาไว้ ทำให้หากไม่ใช่เพื่อนกันก็จะอ่านไม่ได้) แต่บางรีวิวก็จะโพสท์ไว้ที่อื่น ซึ่งกรณีนี้ผมจะวงเล็บกำกับไว้

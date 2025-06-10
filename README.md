@@ -13,6 +13,7 @@
 - [Everyday Life Reasoning: with Discrete & Computational Mathematics](reviews/edlmath.md)
 - [The Nature & Essence of Digital Transformation](reviews/digitran.md)
 - [Omakase: Collection of Software Development & Digital Transformation Talks & Lectures](reviews/others.md#omakase)
+- [Storytelling: The Problem-Solving Approach](reviews/others.md#storytelling-the-problem-solving-approach)
 
 ## Online Classes
 - [Programming from Zero to One](reviews/prog0to1.md)
