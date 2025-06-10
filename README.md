@@ -12,12 +12,12 @@
 - [Algorithm Design for Working Programmers](reviews/algo4wp.md)
 - [Everyday Life Reasoning: with Discrete & Computational Mathematics](reviews/edlmath.md)
 - [The Nature & Essence of Digital Transformation](reviews/digitran.md)
-- [Omakase: Collection of Software Development & Digital Transformation Talks & Lectures](reviews/omakase.md)
+- [Omakase: Collection of Software Development & Digital Transformation Talks & Lectures](reviews/others.md#omakase)
 
 ## Online Classes
 - [Programming from Zero to One](reviews/prog0to1.md)
-- [Haskell Crash Course](reviews/haskellcc.md) คลาส spin-off ของ Mathematics for Working Programmers
-- [Understanding Maths & Coding for Parents](reviews/umc4p.md)
+- [Haskell Crash Course](reviews/others.md#haskell-crash-course) คลาส spin-off ของ Mathematics for Working Programmers
+- [Understanding Maths & Coding for Parents](reviews/others.md#understanding-maths--coding-for-parents)
 - [Photography: The Problem Solving Approach](reviews/others.md#photography-the-problem-solving-approach)
 
 ---
