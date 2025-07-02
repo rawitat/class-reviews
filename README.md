@@ -27,7 +27,6 @@
 
 ## กำหนดการเปิดคลาสที่กำลังจะมาถึง
 
-- Storytellihg: The Problem Solving Approach 28 มิ.ย. 2025
 - Mathematics for Working Programmers: Day 0-8 สุดสัปดาห์สุดท้ายของเดือน ก.ค. - พ.ย.
 
 ## ติดต่อ/ติดตามการเปิดคลาส
