@@ -10,6 +10,9 @@
 
 # Storytelling: The Problem Solving Approach
 
+- [Runyasak Chaengnaimuang (01/07/2025)](https://www.facebook.com/share/p/1CCsYLqqbE/)
+- [Sanguansak Petchmeesri (29/06/2025)](https://www.facebook.com/share/p/1BxJUbL3if/)
+- [Anne Siroratt (28/06/2025)](https://www.facebook.com/share/p/16JZzUrdsG/)
 - [Attasil Chitwirote (21/04/2025)](https://www.facebook.com/share/p/18z1TFbnjJ/)
 - [Kasama Chenkaow (22/04/2025)](https://www.facebook.com/kasama.chenkaow/posts/pfbid02iV9UXEW2CWNUYsSpKLU8bHkAQdF9PwmhX4JkYQ2G2mBRZ1pisBn5bQ7JcU9LGYSpl)
 
