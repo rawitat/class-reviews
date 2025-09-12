@@ -16,7 +16,7 @@
 - [Storytelling: The Problem-Solving Approach](reviews/others.md#storytelling-the-problem-solving-approach)
 
 ## Online Classes
-- [Programming from Zero to One](reviews/prog0to1.md)
+- [Problem Solving: from Zero to One](reviews/prog0to1.md)
 - [Haskell Crash Course](reviews/others.md#haskell-crash-course) คลาส spin-off ของ Mathematics for Working Programmers
 - [Understanding Maths & Coding for Parents](reviews/others.md#understanding-maths--coding-for-parents)
 - [Photography: The Problem Solving Approach](reviews/others.md#photography-the-problem-solving-approach)
