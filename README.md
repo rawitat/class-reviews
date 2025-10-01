@@ -28,7 +28,6 @@
 ## กำหนดการเปิดคลาสที่กำลังดำเนินอยู่และกำลังจะมาถึง
 
 - [Mathematics for Working Programmers: Day 0-8](reviews/maths4wp.md) สุดสัปดาห์สุดท้ายของเดือน ก.ค. - พ.ย.
-- [Problem Solving: from Zero to One](reviews/prog0to1.md), #1/2025 (ก.ย.)
 - [Problem Solving: from Zero to One](reviews/prog0to1.md), #2/2025 (ต.ค.)
 
 ## ติดต่อ/ติดตามการเปิดคลาส
