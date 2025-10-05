@@ -3,6 +3,7 @@
 
 Note: เนื่องจากเนื้อหาของคลาสมีการปรับปรุงตลอดเวลา ดังนั้นรีวิวที่มีความเป็นปัจจุบันที่สุด จะมีความใกล้เคียงกับคลาสที่ท่านจะได้เรียนที่สุด โดยที่ส่วนมากจะเป็นรีวิวที่ท่านเหล่านี้โพสท์ไว้ใน Facebook (บางรีวิวจะตั้งค่าเป็น Friends Only เอาไว้ ทำให้หากไม่ใช่เพื่อนกันก็จะอ่านไม่ได้) แต่บางรีวิวก็จะโพสท์ไว้ที่อื่น ซึ่งกรณีนี้ผมจะวงเล็บกำกับไว้
 
+- [Jirapat Klaokliang (04/10/2025)](https://www.facebook.com/share/p/16Cd66NLAs/)
 - [Shindanai Mongkolsin (27/09/2025)](https://www.facebook.com/share/p/14SdqxJkahq/) รอบแรกที่เปลี่ยนชื่อเป็น Problem Solving: from Zero to One
 - [Atiwat Yuwitaya (10/10/2024)](https://www.facebook.com/DogJeWz/posts/pfbid0PfaEGtBVbEeyJQk3iVcJQkxS4DKStMc1ySU9e1R3nfTxyZiqLj8oAkprvWC3WDCEl)
 - [Ramet Sungsawan (10/10/2024)](https://www.facebook.com/DelPieroGB/posts/pfbid0PcJCnoYFjtQi84vFQbQDuA1hv9cdEM5c1sNHQ5p36FjFqqpYUMm4Rfx8UY3A2gEtl)
